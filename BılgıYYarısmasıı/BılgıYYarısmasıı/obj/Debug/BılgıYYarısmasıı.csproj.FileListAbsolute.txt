@@ -1,0 +1,10 @@
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\bin\Debug\BılgıYYarısmasıı.exe.config
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\bin\Debug\BılgıYYarısmasıı.exe
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\bin\Debug\BılgıYYarısmasıı.pdb
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\obj\Debug\BılgıYYarısmasıı.csproj.AssemblyReference.cache
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\obj\Debug\BılgıYYarısmasıı.Form1.resources
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\obj\Debug\BılgıYYarısmasıı.Properties.Resources.resources
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\obj\Debug\BılgıYYarısmasıı.csproj.GenerateResource.cache
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\obj\Debug\BılgıYYarısmasıı.csproj.CoreCompileInputs.cache
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\obj\Debug\BılgıYYarısmasıı.exe
+C:\Users\srdl_\source\repos\BılgıYYarısmasıı\BılgıYYarısmasıı\obj\Debug\BılgıYYarısmasıı.pdb
